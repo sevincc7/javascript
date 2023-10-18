@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navigation a {
+  color: white;
+}
+.navigation a:hover {
+  color: white;
+}
